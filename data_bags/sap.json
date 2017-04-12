@@ -1,9 +1,0 @@
-{
-  "id": "sap",
-  "comment": "sap",
-  "uid": 2001,
-  "gid": 1,
-  "home": "/home/sap",
-  "shell": "/bin/bash"
-}
-
