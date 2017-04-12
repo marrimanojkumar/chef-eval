@@ -105,8 +105,3 @@ Strainerfile
 ###########
 .vagrant
 Vagrantfile
-
-# chef-eval #
-#############
-.chef
-knife.rb

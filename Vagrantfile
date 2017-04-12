@@ -10,7 +10,8 @@ Vagrant.configure("2") do |config|
     chef.validation_key_path = ".chef/marrimanoj.pem"
     chef.validation_client_name = "marrimanoj"
     chef.node_name = "centos-server"
-  end
+    chef.add_recipe "ec2-docker"  
+end
 end
 
 
